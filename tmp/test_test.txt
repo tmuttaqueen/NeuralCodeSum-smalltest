@@ -1,0 +1,5 @@
+07/24/2020 01:54:46 PM: [ COMMAND: ../../main/train.py --only_test True --data_workers 5 --dataset_name java --data_dir ../../data/ --model_dir ../../tmp --model_name test --dev_src test/code.original_subtoken --dev_tgt test/javadoc.original --uncase True --max_src_len 150 --max_tgt_len 50 --max_examples -1 --test_batch_size 384 ]
+07/24/2020 01:54:46 PM: [ ---------------------------------------------------------------------------------------------------- ]
+07/24/2020 01:54:46 PM: [ Load and process data files ]
+07/24/2020 01:54:47 PM: [ Num dev examples = 8709 ]
+07/24/2020 01:54:47 PM: [ ---------------------------------------------------------------------------------------------------- ]

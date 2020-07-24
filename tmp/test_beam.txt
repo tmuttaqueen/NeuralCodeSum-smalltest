@@ -1,0 +1,5 @@
+07/24/2020 01:54:49 PM: [ COMMAND: ../../main/test.py --data_workers 5 --dataset_name java --data_dir ../../data/ --model_dir ../../tmp --model_name test --dev_src test/code.original_subtoken --dev_tgt test/javadoc.original --uncase True --max_examples -1 --max_src_len 150 --max_tgt_len 50 --test_batch_size 384 --beam_size 4 --n_best 1 --block_ngram_repeat 3 --stepwise_penalty False --coverage_penalty none --length_penalty none --beta 0 --gamma 0 --replace_unk ]
+07/24/2020 01:54:49 PM: [ ---------------------------------------------------------------------------------------------------- ]
+07/24/2020 01:54:49 PM: [ Load and process data files ]
+07/24/2020 01:54:49 PM: [ Num dev examples = 8709 ]
+07/24/2020 01:54:49 PM: [ ---------------------------------------------------------------------------------------------------- ]
